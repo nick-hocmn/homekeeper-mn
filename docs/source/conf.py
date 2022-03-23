@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HomeKeeper MN'
+copyright = '2022, Minnesota Homeownership Center'
+author = 'Nick Mendler'
 
 release = '0.1'
 version = '0.1.0'

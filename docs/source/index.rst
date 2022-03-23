@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the HomeKeeper MN documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**HomeKeeper MN** (/lu'make/) is a customized implementation of the `HomeKeeper Salesforce package <https://myhomekeeper.org/>` from `Grounded Solutions Network <https://groundedsolutions.org/>`.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
